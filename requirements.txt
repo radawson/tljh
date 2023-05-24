@@ -1,1 +1,10 @@
+gdelt
+geopandas
+ipyleaflet
+matplotlib
+numpy
 pandas
+pygeodesy
+pykml
+qgrid
+warnings

@@ -22,7 +22,7 @@ sudo apt-get -y install python3 python3-dev git curl
 curl -L https://tljh.jupyter.org/bootstrap.py | sudo python3 - \
  --admin dawsonr:P@NGu1n2 \
  --plugin tljh-shared-directory \
- --user-requirements-txt-url \
+ --user-requirements-txt-url https://raw.githubusercontent.com/radawson/tljh/main/requirements.txt \
  --show-progress-page
 
 # Remember this for later
