@@ -3,5 +3,3 @@ ipyleaflet
 matplotlib
 numpy
 pandas
-pygeodesy
-warnings
