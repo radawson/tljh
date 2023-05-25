@@ -33,3 +33,7 @@ sudo mkdir -p /srv/data/shared
 
 cd /etc/skel
 sudo ln -s /srv/data/shared shared
+
+sudo tljh-config set user_environment.default_app jupyterlab
+
+sudo tljh-config reload hub
