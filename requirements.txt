@@ -1,4 +1,3 @@
-gdelt
 geopandas
 ipyleaflet
 matplotlib
